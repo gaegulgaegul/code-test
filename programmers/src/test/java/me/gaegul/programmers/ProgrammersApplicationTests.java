@@ -1,10 +1,10 @@
-package me.gaegul.anunfinishedrunner;
+package me.gaegul.programmers;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class AnUnfinishedRunnerApplicationTests {
+class ProgrammersApplicationTests {
 
     @Test
     void contextLoads() {

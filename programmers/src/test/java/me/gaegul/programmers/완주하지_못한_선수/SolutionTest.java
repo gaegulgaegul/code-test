@@ -1,4 +1,4 @@
-package me.gaegul.anunfinishedrunner;
+package me.gaegul.programmers.완주하지_못한_선수;
 
 import org.junit.jupiter.api.Test;
 

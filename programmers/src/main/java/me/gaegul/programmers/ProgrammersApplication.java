@@ -1,13 +1,13 @@
-package me.gaegul.anunfinishedrunner;
+package me.gaegul.programmers;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class AnUnfinishedRunnerApplication {
+public class ProgrammersApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(AnUnfinishedRunnerApplication.class, args);
+        SpringApplication.run(ProgrammersApplication.class, args);
     }
 
 }
